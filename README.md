@@ -51,6 +51,12 @@
 |![7](https://github.com/user-attachments/assets/c4635676-e86f-45ce-b503-71f5596cc1fe)|
 |---|
 
+|![certificate_of_completion_backend_developer_with_python](https://github.com/user-attachments/assets/4303c434-584f-41ff-af6a-1543fb1fc0db)|
+|---|
+
+|![certificate_of_completion_fullstack_developer_with_python](https://github.com/user-attachments/assets/0cca67d5-60a2-41c5-ba35-3d4d4d0ad39b)|
+|---|
+
 </details>
 
 </details>
