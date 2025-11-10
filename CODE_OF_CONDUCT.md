@@ -1,6 +1,6 @@
 # Code of Conduct
 
-## 🇩🇪 Deutsch
+## Deutsch
 
 ### Präambel
 Dieses Projekt wird von **BYLICKILABS** mit höchstem Anspruch an Professionalität, Sicherheit und Integrität entwickelt.  
