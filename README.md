@@ -3,6 +3,9 @@
 
 # Encrypted File Journal
 
+|<img width="1280" height="640" alt="journal" src="https://github.com/user-attachments/assets/1d17e023-bd8b-4d3a-854b-a2ba3422be03" />|
+|---|
+
 ## German
 
 **Encrypted File Journal** ist eine moderne Sicherheitsanwendung von **BYLICKILABS**, entwickelt für die manipulationssichere Dokumentation von Datei-Verschlüsselungen und Entschlüsselungen.  
