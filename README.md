@@ -16,7 +16,7 @@
 ---
 
 ```yarn
-> The Encrypted File Journal represents the seamless integration of modern -
+> The Encrypted File Journal represents the seamless integration of modern
   - software architecture and uncompromising data security.
 
 > BYLICKILABS develops end-to-end solutions that unite cryptography,
