@@ -1,3 +1,6 @@
+|[![Python application](https://github.com/bylickilabs/Encrypted-File-Journal/actions/workflows/main.yml/badge.svg)](https://github.com/bylickilabs/Encrypted-File-Journal/actions/workflows/main.yml)|
+|---|
+
 # Encrypted File Journal
 
 ## German
