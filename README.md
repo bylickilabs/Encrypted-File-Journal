@@ -35,7 +35,11 @@ python app.py
 BYLICKILABS Secure Software Division  
 🔗 [GitHub](https://github.com/bylickilabs)
 
+<br>
+
 ---
+
+<br>
 
 ## English
 
