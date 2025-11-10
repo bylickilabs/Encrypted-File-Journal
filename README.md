@@ -6,6 +6,56 @@
 |<img width="1280" height="640" alt="journal" src="https://github.com/user-attachments/assets/1d17e023-bd8b-4d3a-854b-a2ba3422be03" />|
 |---|
 
+
+
+<details>
+  <summary> Dropdown - ✅ "End-to-End Software Development – Security, Encryption & Fullstack Expertise"</summary>
+
+<br>
+
+---
+
+```yarn
+> The Encrypted File Journal represents the seamless integration of modern -
+  software architecture and uncompromising data security.
+
+> BYLICKILABS develops end-to-end solutions that unite cryptography,
+    user interface, and data management into one cohesive system.
+
+> From encrypted storage to a multilingual neon-styled GUI,
+      this fullstack application combines privacy, performance, and usability at the highest level.
+```
+
+---
+
+<br>
+
+|![1](https://github.com/user-attachments/assets/97f06708-e5ee-4bf8-a0f6-3c68dbf165c3)|
+|---|
+
+|![2](https://github.com/user-attachments/assets/def5abb4-25f9-439f-a19e-4beefc4a09fd)|
+|---|
+
+|![3](https://github.com/user-attachments/assets/c28935d4-e11b-440c-8bd6-b94cc77f590a)|
+|---|
+
+|![4](https://github.com/user-attachments/assets/3c6a8469-f862-45ee-8aaa-af43208c4e27)|
+|---|
+
+|![5](https://github.com/user-attachments/assets/a97449be-38ca-48da-9524-0e32e4ba5fad)|
+|---|
+
+|![6](https://github.com/user-attachments/assets/a18ec2ac-4256-4273-8698-d9663fa53a85)|
+|---|
+
+|![7](https://github.com/user-attachments/assets/c4635676-e86f-45ce-b503-71f5596cc1fe)|
+|---|
+
+</details>
+
+</details>
+
+
 ## German
 
 **Encrypted File Journal** ist eine moderne Sicherheitsanwendung von **BYLICKILABS**, entwickelt für die manipulationssichere Dokumentation von Datei-Verschlüsselungen und Entschlüsselungen.  
