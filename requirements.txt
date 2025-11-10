@@ -1,0 +1,8 @@
+PySide6==6.7.2
+cryptography==43.0.1
+sqlite3-binary==0.0.1
+
+flake8==7.1.1
+pytest==8.3.3
+
+pyinstaller==6.10.0  # Für lokale Builds (App-Paketierung)
