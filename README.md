@@ -17,13 +17,13 @@
 
 ```yarn
 > The Encrypted File Journal represents the seamless integration of modern -
-  software architecture and uncompromising data security.
+  - software architecture and uncompromising data security.
 
 > BYLICKILABS develops end-to-end solutions that unite cryptography,
-  user interface, and data management into one cohesive system.
+  - user interface, and data management into one cohesive system.
 
 > From encrypted storage to a multilingual neon-styled GUI,
-  this fullstack application combines privacy, performance, and usability at the highest level.
+  - this fullstack application combines privacy, performance, and usability at the highest level.
 ```
 
 ---
